@@ -39,10 +39,6 @@
 
 ## 💚 contact us 
 
-<!-- 깃허브 -->
-[![Linkedin Badge](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yeri3177/afmSemiProject)](https://github.com/yeri3177/afmSemiProject)
-👈 **깃허브 주소 링크**
-
 <!-- 유튜브 -->
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://youtu.be/1PMJ-3eISJw)](https://youtu.be/1PMJ-3eISJw)
 👈 **발표 영상 링크**
